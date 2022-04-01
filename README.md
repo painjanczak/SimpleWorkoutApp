@@ -1,6 +1,4 @@
 # SimpleWorkoutApp
-
-## General Information
 Simple workout app for android.
 
 ## Features
