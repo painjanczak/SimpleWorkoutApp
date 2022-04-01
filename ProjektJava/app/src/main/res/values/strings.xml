@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyWorkout</string>
+    <string name="lista_cwiczen">Lista ćwiczeń</string>
+    <string name="kalendarz">Planer</string>
+    <string name="textview">TextView</string>
+    <string name="save">save</string>
+    <string name="event_name">event name</string>
+    <string name="PLANER">planer</string>
+</resources>
